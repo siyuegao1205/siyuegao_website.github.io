@@ -1,0 +1,50 @@
+---
+title: "Welcome to Siyue's Website!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<br>
+
+## Basic Information
+
+**Name**: Siyue Gao
+
+**Hometown**: Beijing, China
+
+**Fun Fact**: 1000+ hours reached in the World's Best game, the Legend of Zelda: Breath of the Wild
+
+**More about me**:
+
+I am a 2nd-year MPH Candidate in [Department of Environmental Health Sciences](https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences-ehs), with a Certificate in Applied Biostatistics and Public Health Data Science, at [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu).
+
+I am working as a data analyst with [Dr. Ana Navas-Acien](https://www.publichealth.columbia.edu/people/our-faculty/an2737) on metal exposure and early cardiovascular risk in adult e-cigarette users.
+
+Please visit my [Experience page](experience.html) for more information.
+
+<br>
+
+## Life on Island
+
+I enjoyed my life with my favorite residents on the Island, in [Animal Crossing](https://www.youtube.com/watch?v=_3YNL0OWio0).
+
+Here are some screenshots showing the cozy time we spent together.
+
+<center>
+  <img src = "images/kid_cat.jpg" style = "width: 90%">
+  <figcaption>Early in the morning: Kid Cat enjoying the fresh air next to his house</figcaption>
+  
+  <img src = "images/tutu.jpg" style = "width: 90%">
+  <figcaption>Late at night: Tutu and I sitting in front of the Able Sisters, the clothing shop on the Island</figcaption>
+  
+  <img src = "images/all_residents.jpg" style = "width: 90%">
+  <figcaption>All residents celebrating the completion of a new bridge, with Tom Nook and Isabelle</figcaption>
+</center>
+
+<br>
+
+## Other Stuff
+
+I made some plotly plots on [NY NOAA](https://p8105.com/dataset_noaa.html) dataset. Here's a direct [link](plotly.html) to it. A dashboard displaying these plots can be found [here](dashboard.html).

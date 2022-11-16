@@ -1,0 +1,24 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Experience"
+      href: experience.html
+    - text: "GIS Project"
+      href: gis_project.html
+    - text: "Personal"
+      href: personal.html
+  right:
+    - icon: fa-thin fa-envelope
+      href: mailto:<sgao98@outlook.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/siyuegao1205
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/siyue-gao-944001255
+output:
+  html_document:
+    theme: yeti
+    include:
+      after_body: footer.html
+      

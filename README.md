@@ -1,1 +1,3 @@
-# siyuegao_website.github.io
+# Siyue's Personal Website
+
+Personal website for Siyue Gao.
