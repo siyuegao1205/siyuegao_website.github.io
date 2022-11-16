@@ -1,101 +1,32 @@
 ---
-title: "Experience"
+title: "Personal"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  html_document
 ---
 
 <br>
 
-## Education
+I'm originally from Beijing, China and currently live in New York City, United States for my Master's Degree study.
 
-<p style="text-align:left;">
-    **Columbia University in the City of New York**
-    <span style="float:right;">
-    New York, United States
-    </span>
-</p>
+I'm a big fan of the Zelda Series, especially the Legend of Zelda: Breath of the Wild. A fun fact is that I've reached 1,000+ hours in it with multiple accounts in both Normal and Master Mode.
 
-<p style="text-align:left;">
-    **_Master of Public Health (MPH)_**, Environmental Health Sciences
-    <span style="float:right;">
-    September 2021-Expected May 2023
-    </span>
-</p>
+I also spend my spare time with my favorite residents on the Island, in [Animal Crossing](https://www.youtube.com/watch?v=_3YNL0OWio0). Here are some screenshots showing the cozy time we spent together.
 
-*   Certificate in Applied Biostatistics and Public Health Data Science
-
-*   Relevant Courses: Analysis of Environmental Health Data, Analysis of Categorical Data, Applied Regression, Data Science, Statistical Computing with SAS, Risk Assessment, Management, and Communication
-
-<p style="text-align:left;">
-    **China Agricultural University**
-    <span style="float:right;">
-    Beijing, China
-    </span>
-</p>
-
-<p style="text-align:left;">
-    **_Bachelor of Engineering (BEng)_**, Food Quality and Safety
-    <span style="float:right;">
-    September 2016-June 2020
-    </span>
-</p>
-
-*   GPA: 3.8/4.0
-
-*   Relevant Courses: Biochemistry, Biostatistics and Experiment Design, Food Analysis, Food Hygiene and Safety Control, Food Toxicology, Fundamental Nutrition
+<center>
+  <img src = "images/kid_cat.jpg" style = "width: 90%">
+  <figcaption>Early in the morning: Kid Cat enjoying the fresh air next to his house</figcaption>
+  
+  <img src = "images/tutu.jpg" style = "width: 90%">
+  <figcaption>Late at night: Tutu and I sitting in front of the Able Sisters, the clothing shop on the Island</figcaption>
+  
+  <img src = "images/all_residents.jpg" style = "width: 90%">
+  <figcaption>All residents celebrating the completion of a new bridge, with Tom Nook and Isabelle</figcaption>
+</center>
 
 <br>
 
-## Internship Experience
+I have a great collection of manga and goods from [Haikyu!!](https://haikyu.jp/), the best Sports anime (from my perspective) in the world. Shoyo Hinata, the main character illustrated by the author, Haruichi Furudate, is out to prove that in volleyball (and possibly everything you're chasing for), you don't need to be tall to fly!
 
-<p style="text-align:left;">
-    **Columbia University in the City of New York**
-    <span style="float:right;">
-    New York, United States
-    </span>
-</p>
-
-<p style="text-align:left;">
-    **_Data Analyst, Department of Environmental Health Sciences_**
-    <span style="float:right;">
-    May 2022-Present
-    </span>
-</p>
-
-*   Project name: Metal Exposure and Early Cardiovascular Risk in Adult E-Cigarette Users.
-
-*   Responsible for database management, generated basic statistics summary tables by tidyverse, kableExtra, and table1 packages in R, reported the results during bi-weekly meetings, to provide a reference on subsequent recruitment
-
-*   Independently visualized and analyzed the differences of perceptions about vaping of the currently recruited 160 participants by ggplot2 package in R
-
-<br>
-
-## Research Experience
-
-<p style="text-align:left;">
-    **Arsenic and Related Effects on Cardiovascular Disease**
-    <span style="float:right;">
-    February 2022-April 2022
-    </span>
-</p>
-
-*   Faculty Mentor: Anne Nigra, Assistant Professor in the Department of Environmental Health Sciences at Columbia University in the City of New York
-
-*   Performed literature reviews on arsenic exposure and its related effects on cardiovascular disease, including impact of different doses of exposure, current findings in occupational studies, and management options for harm reduction
-
-*   Completed a 2,600 words research paper
-
-<p style="text-align:left;">
-    **Construction of Chondroitin Sulfate Biosensor**
-    <span style="float:right;">
-    May 2018-May 2019
-    </span>
-</p>
-
-*   Faculty Mentor: Zhiyi Yao, Associate Professor in the College of Food Science and Nutritional Engineering at China Agricultural University
-
-*   Conducted lab experiments to develop a novel chondroitin sulfate fluorescent biosensor, including sample preparation, linear response range verification, sensitivity and specificity identification, and real-world application in commercial products
-
-*   Analyzed program statistics and created data visualization for final publication, including graphs and charts, by Origin
+<center>
+  <img src = "images/fly_high.jpg" style = "width: 90%">
+</center>

@@ -1,14 +1,12 @@
 ---
-title: "Experience"
+title: ""
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  html_document
 ---
 
 <br>
 
-## Education
+## Education Experience
 
 <p style="text-align:left;">
     **Columbia University in the City of New York**
@@ -64,15 +62,50 @@ output:
     </span>
 </p>
 
-*   Project name: Metal Exposure and Early Cardiovascular Risk in Adult E-Cigarette Users.
+*   Project name: Metal Exposure and Early Cardiovascular Risk in Adult E-Cigarette Users
 
-*   Responsible for database management, generated basic statistics summary tables by tidyverse, kableExtra, and table1 packages in R, reported the results during bi-weekly meetings, to provide a reference on subsequent recruitment
+*   Responsible for database management, generated basic statistics summary tables by `tidyverse`, `kableExtra`, and `table1` packages in R, reported the results during bi-weekly meetings, to provide a reference on subsequent recruitment
 
-*   Independently visualized and analyzed the differences of perceptions about vaping of the currently recruited 160 participants by ggplot2 package in R
+*   Independently visualized and analyzed the differences of perceptions about vaping of the currently recruited 160 participants by `ggplot2` package in R
+
+<p style="text-align:left;">
+    **Beijing Sangao Yongxin Intellectual Property Agency Co., Ltd**
+    <span style="float:right;">
+    Beijing, China
+    </span>
+</p>
+
+<p style="text-align:left;">
+    **_Assistant Patent Agent, Department of Foreign Patent Affairs_**
+    <span style="float:right;">
+    August 2020-February 2021
+    </span>
+</p>
+
+*   Translated and proofread patent application documents for over 30 new cases
+
+*   Conveyed examination Office Actions issued by the United States Patent and Trademark Office to inventors; advised on patent matters; communicated with collaborative foreign patent agency
+
+*   Independently drafted response to Office Actions; replied to and corrected the application documents based on choices of inventors
 
 <br>
 
 ## Research Experience
+
+<p style="text-align:left;">
+    **Motor Vehicle Collision Crash Frequency and Demographic Characteristics in NYC, 2020**
+    <span style="float:right;">
+    September 2022-December 2022
+    </span>
+</p>
+
+*   Relevant course: Public Health GIS, instructed by Joel A. Capellan, Adjunct Assistant Professor in the Department of Environmental Health Sciences at Columbia University Mailman School of Public Health
+
+*   Generated maps on motor vehicle collision crash risk and demographic characteristics distribution by zip code in New York City by `tmap`, `tmaptools`, `spgwr` packages in R and by QGIS
+
+*   Conducted spatial clustering analysis of motor vehicle collision crash frequency by GeoDa and mapped out relevant results by QGIS
+
+*   Completed a [poster](gis_project.html) with Background, Methods, Results, Discussions, and Conclusions as a final deliverable
 
 <p style="text-align:left;">
     **Arsenic and Related Effects on Cardiovascular Disease**
@@ -81,7 +114,7 @@ output:
     </span>
 </p>
 
-*   Faculty Mentor: Anne Nigra, Assistant Professor in the Department of Environmental Health Sciences at Columbia University in the City of New York
+*   Faculty Mentor: Anne Nigra, Assistant Professor in the Department of Environmental Health Sciences at Columbia University Mailman School of Public Health
 
 *   Performed literature reviews on arsenic exposure and its related effects on cardiovascular disease, including impact of different doses of exposure, current findings in occupational studies, and management options for harm reduction
 
@@ -99,3 +132,17 @@ output:
 *   Conducted lab experiments to develop a novel chondroitin sulfate fluorescent biosensor, including sample preparation, linear response range verification, sensitivity and specificity identification, and real-world application in commercial products
 
 *   Analyzed program statistics and created data visualization for final publication, including graphs and charts, by Origin
+
+<br>
+
+## Skills
+
+*   Proficient knowledge in MS Office (Word, Excel, PowerPoint)
+
+*   Proficient knowledge in R, SAS, QGIS, GeoDa
+
+*   Intermediate knowledge in SPSS, Origin
+
+*   Native in Chinese
+
+*   Fluent in English

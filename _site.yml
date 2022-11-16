@@ -3,11 +3,11 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-    - text: "Experience"
+    - text: "EXPERIENCE"
       href: experience.html
-    - text: "GIS Project"
+    - text: "GIS PROJECT"
       href: gis_project.html
-    - text: "Personal"
+    - text: "PERSONAL"
       href: personal.html
   right:
     - icon: fa-thin fa-envelope
@@ -19,6 +19,4 @@ navbar:
 output:
   html_document:
     theme: yeti
-    include:
-      after_body: footer.html
       
