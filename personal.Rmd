@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Personal"
 output: 
   html_document
 ---
 
 <br>
 
-### More about Me :)
+## More about Me :)
 
 I'm originally from Beijing, China and currently live in New York City, United States for my Master's Degree study.
 
