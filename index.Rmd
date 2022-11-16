@@ -12,7 +12,7 @@ Columbia University Mailman School of Public Health
 
 ## About
 
-I received a BEng degree in Food Quality and Safety from [China Agricultural University](http://cau.edu.cn/) in 2020. My undergraduate thesis focused on acceptability and preference of biodegradable food packaging among Chinese consumers. I'm currently seeking for a MPH degree in Environmental Health Sciences with a certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science/) from [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/). 
+I received a BEng degree in Food Quality and Safety from [China Agricultural University](http://en.cau.edu.cn/) in 2020. My undergraduate thesis focused on acceptability and preference of biodegradable food packaging among Chinese consumers. I'm currently seeking for a MPH degree in Environmental Health Sciences with a certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science/) from [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/). 
 
 I work as a data analyst with [Dr. Ana Navas-Acien](https://www.publichealth.columbia.edu/people/our-faculty/an2737/) on metal exposure and early cardiovascular risk in adult e-cigarette users since May 2022.
 
