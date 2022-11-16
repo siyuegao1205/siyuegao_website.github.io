@@ -1,16 +1,18 @@
 ---
-title: "Personal"
+title: ""
 output: 
   html_document
 ---
 
 <br>
 
+### More about Me :)
+
 I'm originally from Beijing, China and currently live in New York City, United States for my Master's Degree study.
 
 I'm a big fan of the Zelda Series, especially the Legend of Zelda: Breath of the Wild. A fun fact is that I've reached 1,000+ hours in it with multiple accounts in both Normal and Master Mode.
 
-I also spend my spare time with my favorite residents on the Island, in [Animal Crossing](https://www.youtube.com/watch?v=_3YNL0OWio0). Here are some screenshots showing the cozy time we spent together.
+I also spend my spare time with my favorite residents on the Island, in Animal Crossing. Here are some screenshots showing the cozy time we spent together.
 
 <center>
   <img src = "images/kid_cat.jpg" style = "width: 90%">
@@ -25,7 +27,7 @@ I also spend my spare time with my favorite residents on the Island, in [Animal 
 
 <br>
 
-I have a great collection of manga and goods from [Haikyu!!](https://haikyu.jp/), the best Sports anime (from my perspective) in the world. Shoyo Hinata, the main character illustrated by the author, Haruichi Furudate, is out to prove that in volleyball (and possibly everything you're chasing for), you don't need to be tall to fly!
+I have a great collection of manga and goods from [Haikyu!!](https://haikyu.jp/), the best Sports anime (from my perspective) in the world. Shoyo Hinata, the main character illustrated by the author, Haruichi Furudate, is out to prove that in volleyball (and possibly everything you're chasing for), you don't need to be tall to fly! This kind of becomes my life motto and inspires me a lot as well.
 
 <center>
   <img src = "images/fly_high.jpg" style = "width: 90%">

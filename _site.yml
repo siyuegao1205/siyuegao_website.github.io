@@ -10,12 +10,12 @@ navbar:
     - text: "PERSONAL"
       href: personal.html
   right:
-    - icon: fa-thin fa-envelope
+    - icon: fa-thin fa-envelope fa-lg
       href: mailto:<sgao98@outlook.com>
     - icon: fa-github fa-lg
-      href: http://github.com/siyuegao1205
-    - icon: fa-brands fa-linkedin
-      href: https://www.linkedin.com/in/siyue-gao-944001255
+      href: http://github.com/siyuegao1205/
+    - icon: fa-brands fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/siyue-gao-944001255/
 output:
   html_document:
     theme: yeti
