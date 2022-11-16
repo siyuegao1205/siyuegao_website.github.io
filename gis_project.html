@@ -302,7 +302,7 @@ class="section level2">
 Characteristics in New York City, 2020</strong></h2>
 <p><br></p>
 <div id="background" class="section level3">
-<h3>Background</h3>
+<h3><strong>Background</strong></h3>
 <p>As reported, road traffic mortality is the fifth leading cause of
 death in the world. According to the Global Status Report on Road Safety
 2018, the number of annual road traffic deaths has reached 1.35 million.
@@ -319,7 +319,7 @@ a zip code level in NYC, 2020.</p>
 <p><br></p>
 </div>
 <div id="methods" class="section level3">
-<h3>Methods</h3>
+<h3><strong>Methods</strong></h3>
 <p>Motor vehicle collision data was obtained from <a
 href="https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/">NYC
 OpenData</a>, originally provided by New York Police Department (NYPD).
@@ -338,15 +338,23 @@ Moran’s I and p-value were completed by GeoDa.</p>
 <p><br></p>
 </div>
 <div id="results-and-discussions" class="section level3">
-<h3>Results and Discussions</h3>
+<h3><strong>Results and Discussions</strong></h3>
 <center>
 <img src = "images/Fig.1%20Excess%20Risk.png" style = "width: 90%">
+<figcaption>
+<b>Map 1.</b> Excess Risk of Motor Vehicle Collision Crash by Zip Code
+in New York City, 2020
+</figcaption>
 </center>
 <p><br> Risk of motor vehicle collision crash ranged from 0.02 to 3.59
 across 162 zip codes with valid traffic volume value records in New York
 City.</p>
 <center>
 <img src = "images/Fig.2%20Sigificant%20Predictors.png" style = "width: 90%">
+<figcaption>
+<b>Map 2.</b> Demographic Characteristics with Significant Spatial
+Clustering of Crash Frequency in New York City, 2020
+</figcaption>
 </center>
 <p><br> Regarding the spatial variation in crash frequency, significant
 clustering of hot spots were identified in central Bronx and east
@@ -355,7 +363,7 @@ Lower Manhattan and east Queens (Moran’s I = 0.43, p = 0.001).</p>
 <center>
 <img src = "images/regression_result.png" style = "width: 90%">
 <figcaption>
-Ordinary Least Squares Global Regression Results
+<b>Table 1.</b> Ordinary Least Squares Global Regression Results
 </figcaption>
 </center>
 <p><br> Approximately 30.5% of variation in crash frequency could be
@@ -368,6 +376,10 @@ led to a 3.68 unit decrease in crash frequency (t = -5.25, p &lt;
 increase in crash frequency (t = 4.25, p &lt; 0.001).</p>
 <center>
 <img src = "images/Fig.3%20Local%20R.png" style = "width: 90%">
+<figcaption>
+<b>Map 3.</b> Local R-Squared of Geographically-Weighted Regression
+Model of Crash Frequency in New York City, 2020
+</figcaption>
 </center>
 <p><br> Relationship between demographic characteristics and crash
 frequency varied spatially. The local R-squared of GWR results indicated
@@ -382,7 +394,7 @@ volume data was from 2016, while all the other data was collected in
 <p><br></p>
 </div>
 <div id="conclusions" class="section level3">
-<h3>Conclusions</h3>
+<h3><strong>Conclusions</strong></h3>
 <p>There were significant spatial clusters regarding spatial variation
 in crash frequency in New York City, 2020, and these clusters were
 strongly and significantly related to some demographic predictors,
