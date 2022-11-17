@@ -30,29 +30,29 @@ Data preprocessing and regression analyses were achieved by RStudio. Maps were g
 ### **Results and Discussions**
 
 <center>
-  <img src = "images/Fig.1 Excess Risk.png" style = "width: 90%">
-  <figcaption><b>Map 1.</b> Excess Risk of Motor Vehicle Collision Crash by Zip Code in New York City, 2020</figcaption>
+  <img src = "images/Fig.1 Excess Risk.png" style = "width: 60%">
+  <figcaption><b>Map 1.</b> Excess Risk of Motor Vehicle Collision Crash<br>by Zip Code in New York City, 2020</figcaption>
 </center>
 <br>
 Risk of motor vehicle collision crash ranged from 0.02 to 3.59 across 162 zip codes with valid traffic volume value records in New York City.
 
 <center>
-  <img src = "images/Fig.2 Sigificant Predictors.png" style = "width: 90%">
-  <figcaption><b>Map 2.</b> Demographic Characteristics with Significant Spatial Clustering of Crash Frequency in New York City, 2020</figcaption>
+  <img src = "images/Fig.2 Significant Predictors.png" style = "width: 60%">
+  <figcaption><b>Map 2.</b> Demographic Characteristics with Significant Spatial Clustering of<br>Crash Frequency in New York City, 2020</figcaption>
 </center>
 <br>
 Regarding the spatial variation in crash frequency, significant clustering of hot spots were identified in central Bronx and east Brooklyn, and significant clustering of cold spots were identified in Lower Manhattan and east Queens (Moran’s I = 0.43, p = 0.001).
 
 <center>
-  <img src = "images/regression_result.png" style = "width: 90%">
-  <figcaption><b>Table 1.</b> Ordinary Least Squares Global Regression Results</figcaption>
+  <img src = "images/regression_result.png" style = "width: 80%">
+  <figcaption><b>Table 1.</b> Ordinary Least Squares Global Regression Results<br>(Multiple R-Sqaured = 0.3045)</figcaption>
 </center>
 <br>
 Approximately 30.5% of variation in crash frequency could be explained by poverty level, percent Black, and population density. The OLS regression results indicated that median household income was negatively related to crash frequency, and percent Black was positively related. On average, a 1,000-dollar increase in median household income led to a 3.68 unit decrease in crash frequency (t = -5.25, p < 0.001), while a one-percent increase in percent Black led to a 4.67 unit increase in crash frequency (t = 4.25, p < 0.001).
 
 <center>
-  <img src = "images/Fig.3 Local R.png" style = "width: 90%">
-  <figcaption><b>Map 3.</b> Local R-Squared of Geographically-Weighted Regression Model of Crash Frequency in New York City, 2020</figcaption>
+  <img src = "images/Fig.3 Local R.png" style = "width: 60%">
+  <figcaption><b>Map 3.</b> Local R-Squared of Geographically-Weighted Regression<br>Model of Crash Frequency in New York City, 2020</figcaption>
 </center>
 <br>
 Relationship between demographic characteristics and crash frequency varied spatially. The local R-squared of GWR results indicated that the fitted model could explain as little as 34.3% or as much as 79.5% of variation in crash frequency.
@@ -69,7 +69,7 @@ As next steps, more results from GWR model, such as the spatial variance in coef
 
 <br>
 
-### References
+### **References**
 
 1. Chimba, D., Musinguzi, A., & Kidando, E. (2018). Associating pedestrian crashes with demographic and socioeconomic factors. *Case Studies on Transport Policy, 6*(1), 11-16. https://doi.org/https://doi.org/10.1016/j.cstp.2018.01.006
 2. Cottrill, C. D., & Thakuriah, P. (2010). Evaluating pedestrian crashes in areas with high low-income or minority populations. *Accident Analysis & Prevention, 42*(6), 1718-1728. https://doi.org/https://doi.org/10.1016/j.aap.2010.04.012
@@ -80,6 +80,6 @@ As next steps, more results from GWR model, such as the spatial variance in coef
 
 <br>
 
-### Final Deliverable
+### **Final Deliverable**
 
 [Download the Poster](./resources/Gao_Siyue_Poster_for_Public_Health_GIS.pdf)
