@@ -99,7 +99,7 @@ output:
     </span>
 </p>
 
-*   Relevant course: Public Health GIS, instructed by Joel A. Capellan, Adjunct Assistant Professor in the Department of Environmental Health Sciences at Columbia University Mailman School of Public Health
+*   Related Course: Public Health GIS, instructed by Joel A. Capellan, Adjunct Assistant Professor in the Department of Environmental Health Sciences at Columbia University Mailman School of Public Health
 
 *   Generated maps on motor vehicle collision crash risk and demographic characteristics distribution by zip code in New York City by `tmap`, `tmaptools`, `spgwr` packages in R and by QGIS
 
