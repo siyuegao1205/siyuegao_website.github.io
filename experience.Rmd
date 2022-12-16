@@ -22,6 +22,8 @@ output:
     </span>
 </p>
 
+*   GPA: 4.23/4.0
+
 *   Certificate in Applied Biostatistics and Public Health Data Science
 
 *   Relevant Courses: Analysis of Environmental Health Data, Analysis of Categorical Data, Applied Regression, Data Science, Statistical Computing with SAS, Risk Assessment, Management, and Communication
@@ -91,6 +93,23 @@ output:
 <br>
 
 ## Research Experience
+
+<p style="text-align:left;">
+    **Flight Delay and Cancellation Issue at John F. Kennedy International Airport**
+    <span style="float:right;">
+    October 2022-December 2022
+    </span>
+</p>
+
+*   Related Course: [Data Science I](https://p8105.com/), instructed by Jeff Goldsmith, Associate Professor in the Department of Biostatistics at Columbia University Mailman School of Public Health
+
+*   Generated an interactive map of delay and cancellation cases for different destination airports by `leaflet` package in R, and made some interactive plots on outcome and exposures of interest by `plotly` package in R
+
+*   Created a [Shiny App](https://sn2ylh-siyue-gao.shinyapps.io/delay_cancelation/) to display relationship between COVID cases and cancellation counts, delay counts and average delay times per day by `shiny` package in R
+
+*   Explored relationship between flight on-time performance and predictors including airlines, weather conditions, types of delay, times of the day, and COVID daily cases, from 11/1/2021 to 1/31/2022, by building linear regression and Poisson regression models
+
+*   Completed a project report, a screencast and a [website](https://yingchenx.github.io/final_project_jfk_delay/) as final deliverables
 
 <p style="text-align:left;">
     **Motor Vehicle Collision Crash Frequency and Demographic Characteristics in NYC, 2020**
