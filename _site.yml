@@ -7,9 +7,9 @@ navbar:
       href: experience.html
     - text: "GIS PROJECT"
       href: gis_project.html
+  right:
     - text: "PERSONAL"
       href: personal.html
-  right:
     - icon: fa-thin fa-envelope fa-lg
       href: mailto:<sgao98@outlook.com>
     - icon: fa-github fa-lg
