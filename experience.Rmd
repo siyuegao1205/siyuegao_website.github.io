@@ -18,7 +18,7 @@ output:
 <p style="text-align:left;">
     **_Master of Public Health (MPH)_**, Environmental Health Sciences
     <span style="float:right;">
-    September 2021-Expected May 2023
+    September 2021 - Expected May 2023
     </span>
 </p>
 
@@ -38,7 +38,7 @@ output:
 <p style="text-align:left;">
     **_Bachelor of Engineering (BEng)_**, Food Quality and Safety
     <span style="float:right;">
-    September 2016-June 2020
+    September 2016 - June 2020
     </span>
 </p>
 
@@ -60,7 +60,7 @@ output:
 <p style="text-align:left;">
     **_Data Analyst, Department of Environmental Health Sciences_**
     <span style="float:right;">
-    May 2022-Present
+    May 2022 - Present
     </span>
 </p>
 
@@ -80,7 +80,7 @@ output:
 <p style="text-align:left;">
     **_Assistant Patent Agent, Department of Foreign Patent Affairs_**
     <span style="float:right;">
-    August 2020-February 2021
+    August 2020 - February 2021
     </span>
 </p>
 
@@ -97,7 +97,7 @@ output:
 <p style="text-align:left;">
     **Flight Delay and Cancellation Issue at John F. Kennedy International Airport**
     <span style="float:right;">
-    October 2022-December 2022
+    October 2022 - December 2022
     </span>
 </p>
 
@@ -114,7 +114,7 @@ output:
 <p style="text-align:left;">
     **Motor Vehicle Collision Crash Frequency and Demographic Characteristics in NYC, 2020**
     <span style="float:right;">
-    September 2022-December 2022
+    September 2022 - December 2022
     </span>
 </p>
 
@@ -129,7 +129,7 @@ output:
 <p style="text-align:left;">
     **Arsenic and Related Effects on Cardiovascular Disease**
     <span style="float:right;">
-    February 2022-April 2022
+    February 2022 - April 2022
     </span>
 </p>
 
@@ -142,7 +142,7 @@ output:
 <p style="text-align:left;">
     **Construction of Chondroitin Sulfate Biosensor**
     <span style="float:right;">
-    May 2018-May 2019
+    May 2018 - May 2019
     </span>
 </p>
 
