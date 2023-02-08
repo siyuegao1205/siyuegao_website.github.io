@@ -3,12 +3,14 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-    - text: "EXPERIENCE"
+    - text: "Experience"
       href: experience.html
-    - text: "GIS PROJECT"
+    - text: "GIS Project"
       href: gis_project.html
+    - text: "Data Science Project"
+      href: https://yingchenx.github.io/final_project_jfk_delay/
   right:
-    - text: "PERSONAL"
+    - text: "Personal"
       href: personal.html
     - icon: fa-thin fa-envelope fa-lg
       href: mailto:<sgao98@outlook.com>

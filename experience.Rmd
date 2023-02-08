@@ -6,7 +6,7 @@ output:
 
 <br>
 
-## Education Experience
+## Education
 
 <p style="text-align:left;">
     **Columbia University in the City of New York**
@@ -22,7 +22,7 @@ output:
     </span>
 </p>
 
-*   GPA: 4.23/4.0
+*   GPA: 4.25/4.0
 
 *   Certificate in Applied Biostatistics and Public Health Data Science
 
@@ -48,7 +48,29 @@ output:
 
 <br>
 
-## Internship Experience
+## Experience
+
+<p style="text-align:left;">
+    **Columbia University in the City of New York**
+    <span style="float:right;">
+    New York, United States
+    </span>
+</p>
+
+<p style="text-align:left;">
+    **_Graduate Teaching Assistant, Department of Biostatistics_**
+    <span style="float:right;">
+    January 2023 - Present
+    </span>
+</p>
+
+*   Course: Analysis of Categorical Data
+
+*   Collaborated with 10 TAs and 1 Professor to review and provide feedback on weekly assignments to improve students' learning in a timely manner
+
+*   Held weekly office hours to provide customized assistance to meet individual needs   
+
+*   Responsible for solving any course-related issues brought up via email for 20 pre-assigned students   
 
 <p style="text-align:left;">
     **Columbia University in the City of New York**
@@ -69,6 +91,8 @@ output:
 *   Responsible for database management, generated basic statistics summary tables by `tidyverse`, `kableExtra`, and `table1` packages in R, reported the results during bi-weekly meetings, to provide a reference on subsequent recruitment
 
 *   Independently visualized and analyzed the differences of perceptions about vaping of the currently recruited 160 participants by `ggplot2` package in R
+
+*   Provided backup support on data analyses and visualizations for collegues in the whole research group  
 
 <p style="text-align:left;">
     **Beijing Sangao Yongxin Intellectual Property Agency Co., Ltd**
@@ -92,7 +116,7 @@ output:
 
 <br>
 
-## Research Experience
+## Research and Projects
 
 <p style="text-align:left;">
     **Flight Delay and Cancellation Issue at John F. Kennedy International Airport**
@@ -158,7 +182,7 @@ output:
 
 *   Proficient knowledge in MS Office (Word, Excel, PowerPoint)
 
-*   Proficient knowledge in R, SAS, QGIS, GeoDa
+*   Proficient knowledge in R, SAS, QGIS, GeoDa, MySQL
 
 *   Intermediate knowledge in SPSS, Origin
 
