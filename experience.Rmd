@@ -26,7 +26,7 @@ output:
 
 *   Certificate in Applied Biostatistics and Public Health Data Science
 
-*   Relevant Courses: Analysis of Environmental Health Data, Analysis of Categorical Data, Applied Regression, Data Science, Statistical Computing with SAS, Risk Assessment, Management, and Communication
+*   Relevant Courses: Analysis of Environmental Health Data, Analysis of Categorical Data, Applied Regression, Data Science, Statistical Computing with SAS, Relational Databases and SQL Programming for Research and Data Science, Fundamentals of Toxicology
 
 <p style="text-align:left;">
     **China Agricultural University**
@@ -182,7 +182,7 @@ output:
 
 *   Proficient knowledge in MS Office (Word, Excel, PowerPoint)
 
-*   Proficient knowledge in R, SAS, QGIS, GeoDa, MySQL
+*   Proficient knowledge in R, SAS, MySQL, QGIS, GeoDa
 
 *   Intermediate knowledge in SPSS, Origin
 
