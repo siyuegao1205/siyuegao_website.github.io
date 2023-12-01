@@ -13,7 +13,7 @@
 
 <title>Experience</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -180,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -189,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -302,15 +295,15 @@ $(document).ready(function () {
 <h2>Education</h2>
 <p style="text-align:left;">
 <strong>Columbia University in the City of New York</strong> <span
-style="float:right;"> New York, United States </span>
+style="float:right;"> New York City, United States </span>
 </p>
 <p style="text-align:left;">
 <strong><em>Master of Public Health (MPH)</em></strong>, Environmental
-Health Sciences <span style="float:right;"> September 2021 - Expected
-May 2023 </span>
+Health Sciences <span style="float:right;"> September 2021 - May 2023
+</span>
 </p>
 <ul>
-<li><p>GPA: 4.25/4.0</p></li>
+<li><p>GPA: 4.26/4.0</p></li>
 <li><p>Certificate in Applied Biostatistics and Public Health Data
 Science</p></li>
 <li><p>Relevant Courses: Analysis of Environmental Health Data, Analysis
@@ -335,48 +328,61 @@ Fundamental Nutrition</p></li>
 </ul>
 <p><br></p>
 </div>
+<div id="work" class="section level2">
+<h2>Work</h2>
+<p style="text-align:left;">
+<strong>Columbia University in the City of New York</strong> <span
+style="float:right;"> New York City, United States </span>
+</p>
+<p style="text-align:left;">
+<strong><em>Research Worker, Department of Environmental Health
+Sciences</em></strong> <span style="float:right;"> May 2022 - Present
+</span>
+</p>
+<ul>
+<li><p>Project name: Metal Exposure and Early Cardiovascular Risk in
+Adult E-Cigarette Users (VapeScan Longitudinal Study)</p></li>
+<li><p>Generated description statistics and summary tables for VapeScan
+study and correspondingly updated reports every other week for guidance
+on subsequent recruiting participants</p></li>
+<li><p>Performed statistical analyses, including linear regression,
+logistic regression, and linear mixed effects regression, on large
+datasets for VapeScan main study and sub-studies related to cannabis
+usage, mental health, spirometry measurements, blood and urinary metals
+measurements, and animal behavior experiments</p></li>
+<li><p>Built and managed research databases of over 400 participants for
+each study visit and lab measurements to ensure accuracy and
+completeness of data</p></li>
+<li><p>Developed comprehensive codebooks for databases to be used by
+research teams</p></li>
+<li><p>Provided backup support on data analysis and visualizations to
+research teams for abstract preparations and periodical progress
+reports</p></li>
+</ul>
+<p><br></p>
+</div>
 <div id="internship" class="section level2">
 <h2>Internship</h2>
 <p style="text-align:left;">
 <strong>Columbia University in the City of New York</strong> <span
-style="float:right;"> New York, United States </span>
+style="float:right;"> New York City, United States </span>
 </p>
 <p style="text-align:left;">
 <strong><em>Graduate Teaching Assistant, Department of
 Biostatistics</em></strong> <span style="float:right;"> January 2023 -
-Present </span>
+May 2023 </span>
 </p>
 <ul>
 <li><p>Course: Analysis of Categorical Data</p></li>
 <li><p>Collaborated with 10 TAs and 1 Professor to review and provide
 feedback on weekly assignments to improve students’ learning in a timely
 manner</p></li>
+<li><p>Piloted for periodical exams and provided suggestion on revision
+in terms of examination questions</p></li>
 <li><p>Held weekly office hours to provide customized assistance to meet
 individual needs</p></li>
-<li><p>Responsible for solving any course-related issues brought up via
-email for 20 pre-assigned students</p></li>
-</ul>
-<p style="text-align:left;">
-<strong>Columbia University in the City of New York</strong> <span
-style="float:right;"> New York, United States </span>
-</p>
-<p style="text-align:left;">
-<strong><em>Data Analyst, Department of Environmental Health
-Sciences</em></strong> <span style="float:right;"> May 2022 - Present
-</span>
-</p>
-<ul>
-<li><p>Project name: Metal Exposure and Early Cardiovascular Risk in
-Adult E-Cigarette Users</p></li>
-<li><p>Responsible for database management, generated basic statistics
-summary tables by <code>tidyverse</code>, <code>kableExtra</code>, and
-<code>table1</code> packages in R, reported the results during bi-weekly
-meetings, to provide a reference on subsequent recruitment</p></li>
-<li><p>Independently visualized and analyzed the differences of
-perceptions about vaping of the currently recruited 160 participants by
-<code>ggplot2</code> package in R</p></li>
-<li><p>Provided backup support on data analyses and visualizations for
-collegues in the whole research group</p></li>
+<li><p>Responsible for solving any course-related issues for a
+pre-assigned group of 20 students via email</p></li>
 </ul>
 <p style="text-align:left;">
 <strong>Beijing Sangao Yongxin Intellectual Property Agency Co.,
@@ -461,7 +467,7 @@ of Public Health</p></li>
 effects on cardiovascular disease, including impact of different doses
 of exposure, current findings in occupational studies, and management
 options for harm reduction</p></li>
-<li><p>Completed a 2,600 words research paper</p></li>
+<li><p>Completed a 2,600-word research paper</p></li>
 </ul>
 <p style="text-align:left;">
 <strong>Construction of Chondroitin Sulfate Biosensor</strong> <span
@@ -494,8 +500,8 @@ PowerPoint)</p></li>
 
 <br>
 <p style="text-align: center;"><b>Contact Information</b></p>
-<p style="text-align: center;">Siyue Gao, MPH Candidate<br>
-Department of Environmental Health Sciences<br>
+<p style="text-align: center;">Siyue Gao, MPH<br>
+Research Worker at Department of Environmental Health Sciences<br>
 Columbia University Mailman School of Public Health<br>
 <a href="mailto:sgao98@outlook.com">sgao98@outlook.com</a></p>
 

@@ -11,18 +11,18 @@ output:
 <p style="text-align:left;">
     **Columbia University in the City of New York**
     <span style="float:right;">
-    New York, United States
+    New York City, United States
     </span>
 </p>
 
 <p style="text-align:left;">
     **_Master of Public Health (MPH)_**, Environmental Health Sciences
     <span style="float:right;">
-    September 2021 - Expected May 2023
+    September 2021 - May 2023
     </span>
 </p>
 
-*   GPA: 4.25/4.0
+*   GPA: 4.26/4.0
 
 *   Certificate in Applied Biostatistics and Public Health Data Science
 
@@ -48,19 +48,49 @@ output:
 
 <br>
 
+## Work
+
+<p style="text-align:left;">
+    **Columbia University in the City of New York**
+    <span style="float:right;">
+    New York City, United States
+    </span>
+</p>
+
+<p style="text-align:left;">
+    **_Research Worker, Department of Environmental Health Sciences_**
+    <span style="float:right;">
+    May 2022 - Present
+    </span>
+</p>
+
+*   Project name: Metal Exposure and Early Cardiovascular Risk in Adult E-Cigarette Users (VapeScan Longitudinal Study)
+
+*   Generated description statistics and summary tables for VapeScan study and correspondingly updated reports every other week for guidance on subsequent recruiting participants
+
+*   Performed statistical analyses, including linear regression, logistic regression, and linear mixed effects regression, on large datasets for VapeScan main study and sub-studies related to cannabis usage, mental health, spirometry measurements, blood and urinary metals measurements, and animal behavior experiments
+
+*   Built and managed research databases of over 400 participants for each study visit and lab measurements to ensure accuracy and completeness of data
+
+*   Developed comprehensive codebooks for databases to be used by research teams
+
+*   Provided backup support on data analysis and visualizations to research teams for abstract preparations and periodical progress reports  
+
+<br>
+
 ## Internship
 
 <p style="text-align:left;">
     **Columbia University in the City of New York**
     <span style="float:right;">
-    New York, United States
+    New York City, United States
     </span>
 </p>
 
 <p style="text-align:left;">
     **_Graduate Teaching Assistant, Department of Biostatistics_**
     <span style="float:right;">
-    January 2023 - Present
+    January 2023 - May 2023
     </span>
 </p>
 
@@ -68,31 +98,11 @@ output:
 
 *   Collaborated with 10 TAs and 1 Professor to review and provide feedback on weekly assignments to improve students' learning in a timely manner
 
+*   Piloted for periodical exams and provided suggestion on revision in terms of examination questions
+
 *   Held weekly office hours to provide customized assistance to meet individual needs   
 
-*   Responsible for solving any course-related issues brought up via email for 20 pre-assigned students   
-
-<p style="text-align:left;">
-    **Columbia University in the City of New York**
-    <span style="float:right;">
-    New York, United States
-    </span>
-</p>
-
-<p style="text-align:left;">
-    **_Data Analyst, Department of Environmental Health Sciences_**
-    <span style="float:right;">
-    May 2022 - Present
-    </span>
-</p>
-
-*   Project name: Metal Exposure and Early Cardiovascular Risk in Adult E-Cigarette Users
-
-*   Responsible for database management, generated basic statistics summary tables by `tidyverse`, `kableExtra`, and `table1` packages in R, reported the results during bi-weekly meetings, to provide a reference on subsequent recruitment
-
-*   Independently visualized and analyzed the differences of perceptions about vaping of the currently recruited 160 participants by `ggplot2` package in R
-
-*   Provided backup support on data analyses and visualizations for collegues in the whole research group  
+*   Responsible for solving any course-related issues for a pre-assigned group of 20 students via email   
 
 <p style="text-align:left;">
     **Beijing Sangao Yongxin Intellectual Property Agency Co., Ltd**
@@ -161,7 +171,7 @@ output:
 
 *   Performed literature reviews on arsenic exposure and its related effects on cardiovascular disease, including impact of different doses of exposure, current findings in occupational studies, and management options for harm reduction
 
-*   Completed a 2,600 words research paper
+*   Completed a 2,600-word research paper
 
 <p style="text-align:left;">
     **Construction of Chondroitin Sulfate Biosensor**
